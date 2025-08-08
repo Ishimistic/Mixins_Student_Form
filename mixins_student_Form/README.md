@@ -63,5 +63,4 @@ npm run dev
 
 ---
 
-If you want, I can also **add a flow diagram** to this README so it visually explains how the form works from input to submission. That would make it look even more professional.
 
